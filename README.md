@@ -27,7 +27,7 @@ Before running the application, ensure that you have the following installed:
   pip install -r requirements.txt
   ```
 ### Installation
-Clone the repository to your local machine using Git:
+- Clone the repository to your local machine using Git:
     ``` bash
     git clone https://github.com/snehashukla1404/Deepfake-Image-Detection.git
     cd Deepfake-Image-Detection
