@@ -60,4 +60,5 @@ Clone the repository to your local machine using Git:
 
 ### 📊📈 Output
 ![image](https://github.com/user-attachments/assets/d361fd63-3a1c-46a4-8b71-9bfea16d3eb7)
+
 ![image](https://github.com/user-attachments/assets/50d9557a-53ca-4c5a-ad3e-01c9cf94a1c7)
